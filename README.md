@@ -4,27 +4,22 @@
 ***
 
  ## Como configurar ?
-Baixe ou clone o este repositório.
+1. Baixe ou clone o este repositório.
 
- Para utilizar este repositório você deverá ter Python instalado na sua máquina, clique [aqui](https://python.org.br/instalacao-windows/) caso você não o tenha. Após obter o Python, baixe o [PIP](https://phoenixnap.com/kb/install-pip-windows).
+1. Para utilizar este repositório você deverá ter Python instalado na sua máquina, clique [aqui](https://python.org.br/instalacao-windows/) caso você não o tenha. Após obter o Python, baixe o [PIP](https://phoenixnap.com/kb/install-pip-windows).
 
- Depois isto, precisaremos intalar o selenium, execute este comando no terminal:
+ 1. Depois isto, precisaremos intalar o selenium, execute este comando no terminal:
  >```pip install selenium```
 
+ 4. Ao terminar o download, baixe também a última versão do [ChromeDriver](https://chromedriver.chromium.org/downloads) e salve na pasta "C:\Program Files (x86)".
 
- Ao terminar o download, baixe também a última versão do [ChromeDriver](https://chromedriver.chromium.org/downloads) e salve na pasta "C:\Program Files (x86)".
+5. Feito isto, teremos que [criar um perfil](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=pt-BR) no Chrome (caso você já não tenha pelo menos um). Após, acesse o diretório "C:\Users\\**_NOME-DO-USUARIO-DO-SEU-PC_**\AppData\Local\Google\Chrome" e crie uma pasta chamada "AutoBot" (sem as aspas). Feito isto, copie todos os arquivos da pasta "UserData" e cole na pasta "AutoBot".
 
-
-Feito isto, teremos que [criar um perfil](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=pt-BR) no Chrome (caso você já não tenha pelo menos um). Após, acesse o diretório "C:\Users\\**_NOME-DO-USUARIO-DO-SEU-PC_**\AppData\Local\Google\Chrome" e crie uma pasta chamada "AutoBot" (sem as aspas). Feito isto, copie todos os arquivos da pasta "UserData" e cole na pasta "AutoBot".
-
-
-Troque o caminho que está na linha 63 do arquivo 'index.py', colocando o nome do seu PC:
+6. Troque o caminho que está na linha 63 do arquivo 'index.py', colocando o nome do seu PC:
 
 ![Screenshot_402](https://user-images.githubusercontent.com/50505615/109254418-bcd65c80-77d0-11eb-9337-9b89c09b6049.png)
 
-
-Por fim, inicialize a variável com o valor desejado:
-
+7. Por fim, inicialize a variável com o valor desejado:
 
 ![Screenshot_401](https://user-images.githubusercontent.com/50505615/109253103-cca07180-77cd-11eb-8b71-237612f3ec21.png)
 
