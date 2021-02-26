@@ -9,7 +9,7 @@
  Após isto precisaremos intalar o selenium, execute este comando no terminal:
  >```pip install selenium```
 
- Ao terminar o download, baixe também a última versão do [ChromeDriver](https://chromedriver.chromium.org/downloads) e salve na pasta "C:\\Program Files (x86)\\chromedriver.exe".
+ Ao terminar o download, baixe também a última versão do [ChromeDriver](https://chromedriver.chromium.org/downloads) e salve na pasta "C:\Program Files (x86)".
 
- Depois teremos que [criar um perfil](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=pt-BR) no Chrome (caso você já não tenha pelo menos um). Após acesse o diretório "C:\Users\**_NOME DO USUARIO DO SEU PC_**\AppData\Local\Google\Chrome" e crie uma pasta chamada "AutoBot" (sem as aspas), feito isto copie todos os arquivos da pasta "UserData" e jogue na pasta "AutoBot".
+ Feito isto, teremos que [criar um perfil](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=pt-BR) no Chrome (caso você já não tenha pelo menos um). Após, acesse o diretório "C:\Users\**_NOME DO USUARIO DO SEU PC_**\AppData\Local\Google\Chrome" e crie uma pasta chamada "AutoBot" (sem as aspas), feito isto, copie todos os arquivos da pasta "UserData" e jogue na pasta "AutoBot".
 
