@@ -8,7 +8,7 @@
 
 1. Para utilizar este repositório você deverá ter Python instalado na sua máquina, clique [aqui](https://python.org.br/instalacao-windows/) caso você não o tenha. Após obter o Python, baixe o [PIP](https://phoenixnap.com/kb/install-pip-windows).
 
- 1. Depois isto, precisaremos intalar o selenium, execute este comando no terminal:
+ 1. Depois isto, precisaremos instalar o selenium, execute este comando no terminal:
  >```pip install selenium```
 
  4. Ao terminar o download, baixe também a última versão do [ChromeDriver](https://chromedriver.chromium.org/downloads) e salve na pasta "C:\Program Files (x86)".
