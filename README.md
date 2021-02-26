@@ -37,3 +37,6 @@ Eu recomendo um valor entre 11 e 15.
 [Abra o terminal na pasta baixada](https://www.softdownload.com.br/como-abrir-prompt-comando-windows-pasta-especifica.html#:~:text=Basta%20voc%C3%AA%20abrir%20a%20pasta,Abrir%20janela%20de%20comando%20aqui.) e digite:
 >```python index.py```
 
+## Licença
+A licença do projeto é MIT License - olhar o arquivo LICENSE.md para mais detalhes.
+
