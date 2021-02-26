@@ -14,5 +14,5 @@
  Feito isto, teremos que [criar um perfil](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=pt-BR) no Chrome (caso você já não tenha pelo menos um). Após, acesse o diretório "C:\Users\\**_NOME-DO-USUARIO-DO-SEU-PC_**\AppData\Local\Google\Chrome" e crie uma pasta chamada "AutoBot" (sem as aspas). Feito isto, copie todos os arquivos da pasta "UserData" e cole na pasta "AutoBot".
 
  Por fim, inicialize a variável com o valor desejado:
- ![Imagem](C:\\Users\\Berchez\\Documents\\Lightshot\\Screenshot_401.png)
+ ![Imagem](C:/Users/Berchez/Documents/Lightshot/Screenshot_401.png)
 
