@@ -1,9 +1,9 @@
-# Apostar Roleta Pitterson
+# :moneybag: Apostar Roleta Pitterson
  Esse é o repositório onde colocarei o bot que inicializa as apostas do site 'https://johnpittertv.com/roleta' automaticamente, de modo a ganhar o máximo de pitterson e correr um risco pequeno.
 
 ***
 
- ## Como configurar ?
+ ## :gear: Como configurar ?
 1. Baixe ou clone o este repositório.
 
 1. Para utilizar este repositório você deverá ter Python instalado na sua máquina, clique [aqui](https://python.org.br/instalacao-windows/) caso você não o tenha. Após obter o Python, baixe o [PIP](https://phoenixnap.com/kb/install-pip-windows).
@@ -28,7 +28,7 @@ Eu recomendo um valor entre 11 e 15.
 
 ***
 
-## Como utilizar
+## :rocket: Como utilizar
 [Abra o terminal na pasta baixada](https://www.softdownload.com.br/como-abrir-prompt-comando-windows-pasta-especifica.html#:~:text=Basta%20voc%C3%AA%20abrir%20a%20pasta,Abrir%20janela%20de%20comando%20aqui.) e digite:
 >```python index.py```
 
