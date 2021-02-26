@@ -16,6 +16,11 @@
 Feito isto, teremos que [criar um perfil](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=pt-BR) no Chrome (caso você já não tenha pelo menos um). Após, acesse o diretório "C:\Users\\**_NOME-DO-USUARIO-DO-SEU-PC_**\AppData\Local\Google\Chrome" e crie uma pasta chamada "AutoBot" (sem as aspas). Feito isto, copie todos os arquivos da pasta "UserData" e cole na pasta "AutoBot".
 
 
+Troque o caminho que está na linha 63, colocando o nome do seu PC:
+
+![Screenshot_402](https://user-images.githubusercontent.com/50505615/109254418-bcd65c80-77d0-11eb-9337-9b89c09b6049.png)
+
+
 Por fim, inicialize a variável com o valor desejado:
 
 
