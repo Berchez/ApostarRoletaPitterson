@@ -6,4 +6,6 @@
  ## Como utilizar ?
  Para utilizar este repositório você deverá ter Python instalado na sua máquina, clique [aqui](https://python.org.br/instalacao-windows/) caso você não o tenha.
 
- Após isto precisaremos intalar o selenium, use ````pip install selenium```` para instalar.
+ Após isto precisaremos intalar o selenium, use 
+ >```pip install selenium```
+  para instalar.
