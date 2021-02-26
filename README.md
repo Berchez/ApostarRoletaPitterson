@@ -11,6 +11,10 @@
 
 
 
+ 
+
+
+
 
  Ao terminar o download, baixe também a última versão do [ChromeDriver](https://chromedriver.chromium.org/downloads) e salve na pasta "C:\Program Files (x86)".
 
