@@ -1,4 +1,4 @@
-# :moneybag: Apostar Roleta Pitterson
+# :moneybag: Apostar Roleta Pitterson **[DEPRECATED]**
  Esse é o repositório onde colocarei o bot que inicializa as apostas do site 'https://johnpittertv.com/roleta' automaticamente, de modo a ganhar o máximo de pitterson e correr um risco pequeno.
 
 ***
